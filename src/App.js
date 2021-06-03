@@ -68,7 +68,6 @@ const animeDB = {
       name: "My Little Monster",
       animeWiki: "https://en.wikipedia.org/wiki/My_Little_Monster"
     },
-    { name: "Toradora!", animeWiki: "https://en.wikipedia.org/wiki/Toradora!" },
     { name: "Your Name", animeWiki: "https://en.wikipedia.org/wiki/Your_Name" },
     {
       name: "Net-juu no Susume",
